@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name 555_badge)(type KiCad)(uri /Users/dtremitiere/git/kicad/proj/555_badge/555_badge.pretty)(options "")(descr ""))
+)
